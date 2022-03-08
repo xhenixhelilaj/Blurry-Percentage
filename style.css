@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
 *{box-sizing: border-box;}
 
+
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Readex Pro', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,6 +24,6 @@ body{
 }
 
 .loading-text{
-    font-size: 50px;
+    font-size: 40px;
     color: white;
 }
